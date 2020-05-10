@@ -8,7 +8,7 @@ Berserk mode is handled properly.
 No external python modules needed.
 # How to use:
 
-You need to specify in the code only the input [.pgn] tournament file, located in the same folder with this script.
+You need to specify in the code only the input [.pgn] tournament file.
 
 This file can be retrieved by an http-request: http://lichess.org/api/tournament/**tournament_id**/games?clocks=true.
 
